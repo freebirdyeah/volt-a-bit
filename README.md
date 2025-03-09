@@ -1,2 +1,2 @@
 # Volt-A-Bit
-for all OS Dev / Volt-A-Bit work
+OS development projects by Volt-A-Bit, exploring low-level programming.
